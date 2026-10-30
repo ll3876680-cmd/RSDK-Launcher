@@ -21,4 +21,8 @@ Q2:What's next?
 
 
 A2:Be patient.
+# Credits
+RSDK decomps are owned by Rubberduckycooly
 
+
+The launcher was made by Symary(it'sa meeee :D)
