@@ -1,5 +1,5 @@
 # RSDK-Launcher
-A launcher for Sonic 1 forever, Sonic 2 absolute and Sonic CD (2013)
+An Origins-Like launcher for Sonic 1 forever, Sonic 2 absolute and Sonic CD (2013)
 # Installation
 1-Download the RSDK launcher from the official repo
 
