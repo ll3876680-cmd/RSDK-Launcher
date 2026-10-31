@@ -14,7 +14,7 @@ Q1:Was this made with AI?
 
 
 A1:Except for title screen sprite, the port's code is 100% written by human
-( I don't have sprites yet :( )
+( I don't have spriters yet :( )
 
 
 Q2:What's next?
